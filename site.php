@@ -6,7 +6,7 @@
   </head>
   <body>
 
-     <!-- Site.php is the name of the file -->
+       <!-- The site.php is a file name -->
      <form action = "site.php" method = "get">
 
        Name: <br>
